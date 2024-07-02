@@ -1,5 +1,5 @@
 <h1>Hi! My name is Alex</h1> 
- <br /> I've been doing web development for 3 years now. I started with HTML and after a while I came to Next.js ! <br /> * 🌍 I'm based in Rostov-on-don <br /> * 🖥️ See my portfolio at [hh](http://spb.hh.ru/resume/459680a5ff09245b620039ed1f6265786e6762) <br /> * ✉️ You can contact me at [coll-feis1998@yandex.ru](mailto:coll-feis1998@yandex.ru) <br /> * 🚀 I'm currently working on [Kinoplan](http://github.com/K0uzer/kinoplan) <br /> * 🧠 I'm learning By yourself <br /> * ⚡ Which pill will you choose? Blue or red?
+ <br /> I've been doing web development for 3 years now. I started with HTML and after a while I came to Next.js! <br /> * 🌍 I'm based in Rostov-on-don <br /> * 🖥️ See my portfolio at [hh](http://spb.hh.ru/resume/459680a5ff09245b620039ed1f6265786e6762) <br /> * ✉️ You can contact me at [coll-feis1998@yandex.ru](mailto:coll-feis1998@yandex.ru) <br /> * 🚀 I'm currently working on [Kinoplan](http://github.com/K0uzer/kinoplan) <br /> * 🧠 I'm learning By yourself <br /> * ⚡ Which pill will you choose? Blue or red?
 
 <br /> <h2>Web developer</h2> 
 <a href="https://www.github.com/K0uzer" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/K0uzer?logo=github&style=for-the-badge&color=22c55e&labelColor=581c87" /></a>
