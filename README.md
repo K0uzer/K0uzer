@@ -1,10 +1,5 @@
 
-
-ALEKSANDR GANIN
-============================================================================================================================
-
-Front-end developer
--------------
+<img src="./github-header-image (1).png">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K0uzer&theme=solarized_dark)
 
