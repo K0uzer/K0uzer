@@ -1,4 +1,4 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)<h1>My name is Alex</h1> 
+<h1>Hi! My name is Alex</h1> 
  <br /> Web developer <br /> I've been doing web development for 3 years now. I started with HTML and after a while I came to Next.js ! * 🌍 I'm based in Rostov-on-don * 🖥️ See my portfolio at [hh](http://spb.hh.ru/resume/459680a5ff09245b620039ed1f6265786e6762) * ✉️ You can contact me at [coll-feis1998@yandex.ru](mailto:coll-feis1998@yandex.ru) * 🚀 I'm currently working on [Kinoplan](http://github.com/K0uzer/kinoplan) * 🧠 I'm learning By yourself * ⚡ Which pill will you choose? Blue or red?
 
 <a href="https://www.github.com/K0uzer" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/K0uzer?logo=github&style=for-the-badge&color=22c55e&labelColor=581c87" /></a>
