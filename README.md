@@ -33,7 +33,7 @@ I've been doing web development for 3 years now. I started with HTML and after a
 
 <a href="http://www.github.com/K0uzer"><img src="https://github-readme-stats.vercel.app/api?username=K0uzer&show_icons=true&hide=issues,contribs&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=581c87&hide_border=true&show_icons=true" alt="K0uzer's GitHub stats" /></a>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=K0uzer&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=K0uzer&custom_title=Counter%20commits%&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <a href="https://github.com/K0uzer" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K0uzer&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=581c87&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
