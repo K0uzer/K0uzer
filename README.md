@@ -32,13 +32,10 @@ I've been doing web development for 3 years now. I started with HTML and after a
 <b>My GitHub Stats</b>
 
 <ul>
-<li>![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K0uzer&theme=solarized_dark)</li>
-<li>![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=K0uzer&theme=solarized_dark)</li>
-<li></li>
-<li></li>
 
-
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K0uzer&theme=solarized_dark)
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=K0uzer&theme=solarized_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=K0uzer&theme=solarized_dark)
 
