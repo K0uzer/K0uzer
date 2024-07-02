@@ -1,4 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alex <br />======================================================================= <br /> Web developer <br /> ------------- <br /> I've been doing web development for 3 years now. I started with HTML and after a while I came to Next.js! <br /> * 🌍 I'm based in Rostov-on-don <br /> * 🖥️ See my portfolio at [hh](http://spb.hh.ru/resume/459680a5ff09245b620039ed1f6265786e6762) <br /> * ✉️ You can contact me at [coll-feis1998@yandex.ru](mailto:coll-feis1998@yandex.ru) <br /> * 🚀 I'm currently working on [Kinoplan](http://github.com/K0uzer/kinoplan) <br /> * 🧠 I'm learning By yourself <br /> * ⚡ Which pill will you choose? Blue || red?
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alex 
+ <br /> Web developer <br /> I've been doing web development for 3 years now. I started with HTML and after a while I came to Next.js ! * 🌍 I'm based in Rostov-on-don * 🖥️ See my portfolio at [hh](http://spb.hh.ru/resume/459680a5ff09245b620039ed1f6265786e6762) * ✉️ You can contact me at [coll-feis1998@yandex.ru](mailto:coll-feis1998@yandex.ru) * 🚀 I'm currently working on [Kinoplan](http://github.com/K0uzer/kinoplan) * 🧠 I'm learning By yourself * ⚡ Which pill will you choose? Blue or red?
 
 <a href="https://www.github.com/K0uzer" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/K0uzer?logo=github&style=for-the-badge&color=22c55e&labelColor=581c87" /></a>
 ### Skills
@@ -13,6 +14,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <a href="http://www.github.com/K0uzer"><img src="https://github-readme-streak-stats.herokuapp.com/?user=K0uzer&stroke=ffffff&background=581c87&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+<a href="http://www.github.com/K0uzer"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=K0uzer&bg_color=581c87&color=ffffff&line=22c55e&point=ffffff&area_color=581c87&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 <a href="https://github.com/K0uzer" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K0uzer&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=22c55e&bg_color=581c87&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
@@ -22,10 +25,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/K0uzer/Echarts" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=K0uzer&repo=Echarts&title_color=ffffff&text_color=ffffff&icon_color=22c55e&bg_color=581c87&hide_border=true&locale=en" /></a><a href="https://github.com/K0uzer/SearchOfFilms" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=K0uzer&repo=SearchOfFilms&title_color=ffffff&text_color=ffffff&icon_color=22c55e&bg_color=581c87&hide_border=true&locale=en" /></a></div>
-<br />
-<ul style="display: flex; list-style-type: none; margin: 0;">
+
+### Support Me
+
+<ul style="list-style-type: none; margin: 0;">
+
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/Alex"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/Alex"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
 
 </ul>
-<br />
