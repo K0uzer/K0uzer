@@ -18,8 +18,6 @@ I've been doing web development for 3 years now. I started with HTML and after a
 *   ⚡  Which pill will you choose? Blue || red?
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=K0uzer&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=K0uzer&theme=solarized_dark)
   
 <a href="https://www.github.com/K0uzer" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/github/followers/K0uzer?logo=github&style=for-the-badge&color=ef4444&labelColor=581c87" /></a>
