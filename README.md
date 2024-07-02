@@ -37,6 +37,20 @@ I've been doing web development for 3 years now. I started with HTML and after a
 
 <a href="https://github.com/K0uzer" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K0uzer&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=581c87&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
+
+Статистика языков в коммитах:
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
+
+Статистика языков в репозиториях:
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
+
+Статистика профиля:
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
+
+Данные по коммитам за сутки:
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniilshat&theme=solarized_dark)
+
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
