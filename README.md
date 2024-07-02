@@ -31,7 +31,7 @@ I've been doing web development for 3 years now. I started with HTML and after a
 
 <b>My GitHub Stats</b>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=K0uzar)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 <a href="http://www.github.com/K0uzer"><img src="https://github-readme-stats.vercel.app/api?username=K0uzer&show_icons=true&hide=issues,contribs&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=581c87&hide_border=true&show_icons=true" alt="K0uzer's GitHub stats" /></a>
 
