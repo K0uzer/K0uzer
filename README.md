@@ -1,4 +1,8 @@
 <div id="header" align="center">
+  <h1 align="center">
+    Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+  </h1>
+  <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
@@ -13,4 +17,3 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div> 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K0uzer&theme=jolly&show_icons=true)
