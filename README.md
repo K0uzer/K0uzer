@@ -1,49 +1,36 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Меня зовут Алекс ================================================================================================================================= Веб-разработчик --------------- Я занимаюсь веб-разработкой уже 3 года. Я начал с HTML и через некоторое время пришел к Next.js ! * 🌍 Я живу в Ростове-на-Дону * 🖥️ Смотрите мое портфолио на [hh](http://spb.hh.ru/resume/459680a5ff09245b620039ed1f6265786e6762) * ✉️ Вы можете связаться со мной по адресу [coll-feis1998@yandex.ru](mailto:coll-feis1998@yandex.ru) * 🚀 В настоящее время я работаю над [Кинопланом](http://github.com/K0uzer/kinoplan) * 🧠 Я учусь самостоятельно * ⚡ Какую таблетку вы выберете? Синюю или красную?
 
-###
+<a href="https://www.github.com/K0uzer" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/K0uzer?logo=github&style=for-the-badge&color=22c55e&labelColor=581c87 " /></a>
+### Навыки
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5 " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a><a href="https://filebase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/filebase-colored.svg" width="36" height="36" alt="Файловая база" /></a> </p>
+### Социальные сети <p align="left"> <a href="https://discord.com/users/K0uzer#1931j"target="_blank" rel="noreferrer"> <изображение> <исходный медиа ="(предпочитает-цветовую-схему: темный)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(предпочитает-цветовая схема: светлая)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg " /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </картинка> </a> <a href="https://www.github.com/K0uzer "target="_blank" rel="noreferrer"> <изображение> <исходный медиа ="(предпочитает-цветовую схему: темный)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(предпочитает-цветовая схема: светлая)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg " /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </картинка> </a> <a href="http://www.instagram.com/aleksandr.v.ganin "target="_blank" rel="noreferrer"> <изображение> <исходный медиа ="(предпочитает-цветовую схему: темный)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(предпочитает-цветовая схема: светлая)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg " /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
+### Значки
 
-###
+<b> Моя статистика на GitHub </b>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<a href="http://www.github.com/K0uzer"><img src="https://github-readme-stats.vercel.app/api?username=K0uzer&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=22c55e&bg_color=581c87&hide_border=true&show_icons=true" alt="Статистика пользователя на GitHub" /></a>
 
-###
+<a href="http://www.github.com/K0uzer"><img src="https://github-readme-streak-stats.herokuapp.com/?user=K0uzer&stroke=ffffff&background=581c87&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+<a href="http://www.github.com/K0uzer"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=K0uzer&bg_color=581c87&color=ffffff&line=22c55e&point=ffffff&area_color=581c87&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="График коммитов на GitHub" /></a>
 
-###
+<a href="https://github.com/K0uzer" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K0uzer&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=22c55e&bg_color=581c87&hide_border=true&locale=en&custom_title=Top%20%Languages "alt="Лучшие языки" /></a>
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+<b> Лучшие репозитории </b>
 
-###
+<div width="100%" align="center"><a href="https://github.com/K0uzer/kinoplan" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=K0uzer&repo=kinoplan&title_color=ffffff&text_color=ffffff&icon_color=22c55e&bg_color=581c87&hide_border=true&locale=en" /></a><a href="https://github.com/K0uzer/SunnyWeather" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=K0uzer&repo=SunnyWeather&title_color=ffffff&text_color=ffffff&icon_color=22c55e&bg_color=581c87&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br clear="both">
+<br /><br /><br /><br /><br />
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<div width="100%" align="center"><a href="https://github.com/K0uzer/Echarts" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=K0uzer&repo=Echarts&title_color=ffffff&text_color=ffffff&icon_color=22c55e&bg_color=581c87&hide_border=true&locale=en" /></a><a href="https://github.com/K0uzer/SearchOfFilms" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=K0uzer&repo=SearchOfFilms&title_color=ffffff&text_color=ffffff&icon_color=22c55e&bg_color=581c87&hide_border=true&locale=en" /></a></div>
 
-###
+### Support Me
+
+<ul style="list-style-type: none; margin: 0;">
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/Alex"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/Alex"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
+
+</ul>
