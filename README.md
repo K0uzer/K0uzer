@@ -27,8 +27,6 @@
 
 <a href="http://www.github.com/K0uzer"><img src="https://github-readme-streak-stats.herokuapp.com/?user=K0uzer&stroke=ffffff&background=581c87&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/K0uzer"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=K0uzer&bg_color=581c87&color=ffffff&line=22c55e&point=ffffff&area_color=581c87&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/K0uzer" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K0uzer&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=22c55e&bg_color=581c87&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
