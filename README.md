@@ -31,8 +31,6 @@ I've been doing web development for 3 years now. I started with HTML and after a
 
 <b>My GitHub Stats</b>
 
-<ul>
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K0uzer&theme=solarized_dark)
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=K0uzer&theme=solarized_dark)
@@ -42,10 +40,6 @@ I've been doing web development for 3 years now. I started with HTML and after a
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=K0uzer&theme=solarized_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=K0uzer&theme=solarized_dark)
-
-</ul>
-
-
 
 ### Support Me
 
