@@ -18,6 +18,8 @@ I've been doing web development for 3 years now. I started with HTML and after a
 *   ⚡  Which pill will you choose? Blue || red?
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=K0uzer&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=K0uzer&theme=solarized_dark)
   
 <a href="https://www.github.com/K0uzer" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/github/followers/K0uzer?logo=github&style=for-the-badge&color=ef4444&labelColor=581c87" /></a>
@@ -31,12 +33,6 @@ I've been doing web development for 3 years now. I started with HTML and after a
 ### Socials
                   
 <p align="left"> <a href="https://discord.com/users/K0uzer#1931j" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/K0uzer" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/aleksandr.v.ganin" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=K0uzer&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=K0uzer&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=K0uzer&theme=solarized_dark)
 
 ### Support Me
 
