@@ -1,6 +1,4 @@
 
-![Header](./github-header-image.png)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K0uzer&theme=solarized_dark)
 
 I've been doing web development for 3 years now. I started with HTML and after a while I came to Next.js!
