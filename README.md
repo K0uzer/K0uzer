@@ -6,7 +6,7 @@ I've been doing web development for 3 years now. I started with HTML and after a
 *   🌍  I'm based in Rostov-on-don
 *   🖥️  See my portfolio at [hh](http://spb.hh.ru/resume/459680a5ff09245b620039ed1f6265786e6762)
 *   ✉️  You can contact me at [coll-feis1998@yandex.ru](mailto:coll-feis1998@yandex.ru)
-*   🚀  I'm currently working on [Kinoplan](http://github.com/K0uzer/kinoplan)
+*   🚀  I'm currently working on [Knigoplan](http://github.com/K0uzer/kinoplan)
 *   🧠  I'm learning I'm moving along my own development map
 *   ⚡  Which pill will you choose? Blue || red?
 
