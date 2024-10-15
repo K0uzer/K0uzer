@@ -1,6 +1,8 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K0uzer&theme=solarized_dark)
 
+https://www.codewars.com/users/K0uzer/badges/large
+
 I've been doing web development for 3 years now. I started with HTML and after a while I came to Next.js!
 
 *   🌍  I'm based in Rostov-on-don
