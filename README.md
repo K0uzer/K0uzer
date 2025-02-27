@@ -6,7 +6,7 @@ I've been doing web development for 3.5 years now. I started with HTML and after
 *   🌍  I'm based in Rostov-on-don
 *   🖥️  See my portfolio at [hh](http://spb.hh.ru/resume/459680a5ff09245b620039ed1f6265786e6762)
 *   ✉️  You can contact me at [coll-feis1998@yandex.ru](mailto:coll-feis1998@yandex.ru)
-*   🚀  I'm currently working on [Delicious Pizza](https://github.com/K0uzer/Pizza)
+*   🚀  I'm currently working on [Reporting](https://github.com/K0uzer/Reporting)
 *   🧠  I'm learning. I'm moving along my own development map
 *   ⚡  Which pill will you choose? Blue || red?
 
