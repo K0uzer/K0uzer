@@ -1,8 +1,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K0uzer&theme=solarized_dark)
 
-![](https://www.codewars.com/users/K0uzer/badges/large)
-
 I've been doing web development for 3.5 years now. I started with HTML and after a while I came to Next.js!
 
 *   🌍  I'm based in Rostov-on-don
@@ -12,7 +10,7 @@ I've been doing web development for 3.5 years now. I started with HTML and after
 *   🧠  I'm learning. I'm moving along my own development map
 *   ⚡  Which pill will you choose? Blue || red?
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=K0uzer&theme=solarized_dark)
+![](https://www.codewars.com/users/K0uzer/badges/small)
   
 <a href="https://www.github.com/K0uzer" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/github/followers/K0uzer?logo=github&style=for-the-badge&color=ef4444&labelColor=581c87" /></a>
