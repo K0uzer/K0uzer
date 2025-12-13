@@ -1,7 +1,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K0uzer&theme=solarized_dark)
 
-I've been doing web development for 3.5 years now. I started with HTML and after a while I came to Next.js!
+I started with HTML and after a while I came to Next.js!
 
 *   🌍  I'm based in Rostov-on-don
 *   ✉️  You can contact me at [coll-feis1998@yandex.ru](mailto:coll-feis1998@yandex.ru)
