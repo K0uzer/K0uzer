@@ -3,7 +3,6 @@
 
 I started with HTML and after a while I came to Next.js!
 
-*   🌍  I'm based in Rostov-on-don
 *   ✉️  You can contact me at [coll-feis1998@yandex.ru](mailto:coll-feis1998@yandex.ru)
 *   🚀  I'm currently working on [RVDK-Statistics](https://github.com/K0uzer/RVDK-Statistics)
 *   🧠  I'm learning. I'm moving along my own development map
