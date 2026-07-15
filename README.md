@@ -1,7 +1,5 @@
 <div align="center">
 
-# Aleksandr Ganin
-
 **Frontend Developer** · React/Next.js · TypeScript · Webpack/Vite 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1200&color=2AA198&center=true&vCenter=true&width=560&lines=Programming+is+an+art%2C+and+I'm+a+supporter+of+it;Building+interfaces+that+feel+intentional;React+%C2%B7+TypeScript+%C2%B7+modern+frontend)](https://git.io/typing-svg)
