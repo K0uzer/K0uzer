@@ -2,7 +2,7 @@
 
 # Aleksandr Ganin
 
-**Frontend Developer** · React · TypeScript · Webpack
+**Frontend Developer** · React/Next.js · TypeScript · Webpack/Vite 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1200&color=2AA198&center=true&vCenter=true&width=560&lines=Programming+is+an+art%2C+and+I'm+a+supporter+of+it;Building+interfaces+that+feel+intentional;React+%C2%B7+TypeScript+%C2%B7+modern+frontend)](https://git.io/typing-svg)
 
@@ -95,7 +95,7 @@ GitHub: **[~5 лет](https://github.com/K0uzer)** · **54** публичных 
 
 ## Contact
 
-Открыт к предложениям по **frontend / React / TypeScript**.
+Открыт к предложениям по **frontend / React / Next.js / TypeScript**.
 
 <p align="center">
   <a href="https://github.com/K0uzer"><img src="https://img.shields.io/badge/GitHub-K0uzer-073642?style=for-the-badge&logo=github&logoColor=eee8d5" alt="GitHub"/></a>
