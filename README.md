@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+frontend+developer)](https://git.io/typing-svg)
 _______________________________________________________________________________________
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K0uzer&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=K0uzer&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=K0uzer&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=K0uzer&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=K0uzer&theme=solarized_dark)
+![](https://raw.githubusercontent.com/K0uzer/K0uzer/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)
+![](https://raw.githubusercontent.com/K0uzer/K0uzer/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/K0uzer/K0uzer/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/K0uzer/K0uzer/main/profile-summary-card-output/solarized_dark/3-stats.svg)
+![](https://raw.githubusercontent.com/K0uzer/K0uzer/main/profile-summary-card-output/solarized_dark/4-productive-time.svg)
 
 ![](https://www.codewars.com/users/K0uzer/badges/small)
   
