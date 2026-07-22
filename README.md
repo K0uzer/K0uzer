@@ -40,21 +40,6 @@ GitHub: **[~5 лет](https://github.com/K0uzer)** · **54** публичных 
 
 ---
 
-## Selected work
-
-Публичные проекты, по которым работодателю проще понять уровень и контекст.
-
-| Project | Context | Stack / note |
-|:--------|:--------|:-------------|
-| [**kinoplan**](https://github.com/K0uzer/kinoplan) | «Книжный план» для Киноплан | TypeScript · продуктовое приложение |
-| [**ElectronicArchive**](https://github.com/K0uzer/ElectronicArchive) | Электронный архив · АО «Ростовводоканал» | JavaScript · корпоративный кейс |
-| [**Echarts**](https://github.com/K0uzer/Echarts) | Курсы валют · «Газпромнефть-ЦР» | TypeScript · визуализация данных |
-| [**TodoList**](https://github.com/K0uzer/TodoList) | Задание для «Reon» | TypeScript · React-паттерны |
-| [**Typing-Speed-Trainer**](https://github.com/K0uzer/Typing-Speed-Trainer) | Тренажёр печати · Poizon API | UX + логика взаимодействия |
-| [**VeryTasty**](https://github.com/K0uzer/VeryTasty) | Приложение «Очень вкусно» | TypeScript · продуктовый UI |
-| [**Portfolio**](https://github.com/K0uzer/Portfolio) | Личное портфолио | TypeScript · самопрезентация |
-| [**Pizza**](https://github.com/K0uzer/Pizza) | Fullstack «Delicious Pizza» | [Live demo](https://pizza-sepia-five.vercel.app) |
-
 ### Tooling & architecture
 
 | Project | What it shows |
