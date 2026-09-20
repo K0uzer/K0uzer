@@ -1,30 +1,14 @@
 <div align="center">
 
-**Frontend Developer** · React/Next.js · TypeScript · Webpack/Vite 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1200&color=2AA198&center=true&vCenter=true&width=560&lines=Programming+is+an+art%2C+and+I'm+a+supporter+of+it;Building+interfaces+that+feel+intentional;React+%C2%B7+TypeScript+%C2%B7+modern+frontend)](https://git.io/typing-svg)
-
-<br/>
-
-[![GitHub followers](https://img.shields.io/github/followers/K0uzer?style=for-the-badge&logo=github&logoColor=eee8d5&labelColor=073642&color=2aa198)](https://github.com/K0uzer)
-[![Codewars](https://www.codewars.com/users/K0uzer/badges/small)](https://www.codewars.com/users/K0uzer)
 
 </div>
 
 ---
 
-## About
-
-Frontend-разработчик с фокусом на **продуктовые интерфейсы** и аккуратную инженерную базу.  
-В работе — TypeScript, React, сборки на Webpack, модульные UI-системы и тестовые задания под реальные бизнес-кейсы.
-
-GitHub: **[~5 лет](https://github.com/K0uzer)**
-
 > Цель профиля — показать не «количество коммитов», а то, **какие задачи решаю** и с каким стеком.
 
 ---
-
-## Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-073642?style=for-the-badge&logo=typescript&logoColor=2aa198" alt="TypeScript"/>
@@ -36,11 +20,7 @@ GitHub: **[~5 лет](https://github.com/K0uzer)**
   <img src="https://img.shields.io/badge/C%23-073642?style=for-the-badge&logo=csharp&logoColor=6c71c4" alt="C#"/>
 </p>
 
-Основные языки в репозиториях: **TypeScript** · JavaScript · C#
-
----
-
-### Tooling & architecture
+<div align="center">
 
 | Project | What it shows |
 |:--------|:--------------|
@@ -50,15 +30,7 @@ GitHub: **[~5 лет](https://github.com/K0uzer)**
 | [**Auth-toolkit**](https://github.com/K0uzer/Auth-toolkit) | Набор инструментов авторизации |
 | [**learning**](https://github.com/K0uzer/learning) | Чеклист подготовки: JS / React |
 
----
-
-## What I care about in code
-
-- **Читаемые интерфейсы** — структура компонентов и потоки данных без лишнего шума  
-- **Сборка и границы модулей** — webpack, шаблоны, масштабируемые настройки проекта  
-- **Практика через реальные задачи** — тестовые и продуктовые кейсы под конкретный бизнес-контекст  
-
----
+</div>
 
 ## Snapshot
 
@@ -76,22 +48,10 @@ GitHub: **[~5 лет](https://github.com/K0uzer)**
 
 ---
 
-## Contact
-
-Открыт к предложениям по **frontend / React / Next.js / TypeScript**.
-
 <p align="center">
   <a href="https://github.com/K0uzer"><img src="https://img.shields.io/badge/GitHub-K0uzer-073642?style=for-the-badge&logo=github&logoColor=eee8d5" alt="GitHub"/></a>
   <a href="https://www.codewars.com/users/K0uzer"><img src="https://img.shields.io/badge/Codewars-practice-073642?style=for-the-badge&logo=codewars&logoColor=b58900" alt="Codewars"/></a>
 </p>
-
-<div align="center">
-
-*Thanks for stopping by — если ищете frontend-разработчика, начнём с диалога.*
-
-</div>
-
-###
 
 <p align="center">
   <picture>
