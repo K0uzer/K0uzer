@@ -1,3 +1,11 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1200&color=2AA198&center=true&vCenter=true&width=560&lines=Programming+is+an+art%2C+and+I'm+a+supporter+of+it;Building+interfaces+that+feel+intentional;React+%C2%B7+TypeScript+%C2%B7+modern+frontend)](https://git.io/typing-svg)
@@ -51,12 +59,4 @@
 <p align="center">
   <a href="https://github.com/K0uzer"><img src="https://img.shields.io/badge/GitHub-K0uzer-073642?style=for-the-badge&logo=github&logoColor=eee8d5" alt="GitHub"/></a>
   <a href="https://www.codewars.com/users/K0uzer"><img src="https://img.shields.io/badge/Codewars-practice-073642?style=for-the-badge&logo=codewars&logoColor=b58900" alt="Codewars"/></a>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg" />
-  </picture>
 </p>
