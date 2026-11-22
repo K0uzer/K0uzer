@@ -32,7 +32,10 @@
 
 [Frontend — 5](#frontend) · [Go basics — 18](#go-basics) · [Go OOP / backend — 9](#go-oop-backend)
 
-### Frontend
+### Frontend  basics
+
+<details>
+<summary>Показать 5 репозиториев</summary>
 
 | Проект | Что внутри |
 |:-------|:-----------|
@@ -42,7 +45,7 @@
 | [**Auth-toolkit**](https://github.com/K0uzer/Auth-toolkit) | Инструменты авторизации на Next.js и Auth.js; проект в разработке. |
 | [**learning**](https://github.com/K0uzer/learning) | Вопросы, задачи и ссылки для подготовки по JavaScript и React. |
 
-Go-репозитории — учебные упражнения в разном состоянии. Статусы основаны на `go test ./...` и `go vet ./...` от 22 ноября 2026 года: 18 проходят проверки, 8 содержат ошибки, 1 — пустая заготовка. В папках без тестов успешный `go test` проверяет только сборку.
+</details>
 
 ### Go basics
 
