@@ -26,7 +26,6 @@
   <img src="https://img.shields.io/badge/Webpack-073642?style=for-the-badge&logo=webpack&logoColor=268bd2" alt="Webpack"/>
   <img src="https://img.shields.io/badge/SCSS-073642?style=for-the-badge&logo=sass&logoColor=cb4b16" alt="SCSS"/>
   <img src="https://img.shields.io/badge/Next.js-073642?style=for-the-badge&logo=nextdotjs&logoColor=eee8d5" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/C%23-073642?style=for-the-badge&logo=csharp&logoColor=6c71c4" alt="C#"/>
 </p>
 
 <div align="center">
