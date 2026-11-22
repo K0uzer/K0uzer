@@ -28,10 +28,6 @@
   <img src="https://img.shields.io/badge/Next.js-073642?style=for-the-badge&logo=nextdotjs&logoColor=eee8d5" alt="Next.js"/>
 </p>
 
-## Проекты
-
-[Frontend — 5](#frontend) · [Go basics — 18](#go-basics) · [Go OOP / backend — 9](#go-oop-backend)
-
 ### Frontend  basics
 
 <details>
